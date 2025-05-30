@@ -30,22 +30,24 @@ https://github.com/pradeepkumar36/Power-Bi-Projects/blob/main/Screenshot%202025-
   - Pie and bar charts for categorical breakdowns
   - Line chart for time-series session and bounce trends
 ### Project Insights:
- #### Total Sessions:
+
+ #### Total Sessions:-
  418K with 90K bounces and 139K exits. 
-#### Top Performing Month: 
+#### Top Performing Month:- 
 August with 30K sessions.
-#### Device Insights:
+#### Device Insights:-
 Desktop generates the highest sessions (292K) but also leads in bounces (55K).
-#### Page Performance: 
+#### Page Performance:- 
 One page (Page Title 496) accounts for nearly 30% of all pageviews.
-#### Country-wise Viewership:
+#### Country-wise Viewership:-
 The United States contributes the highest number of unique pageviews
  (0.18M), followed by India and France.
- #### Performance Metrics:
+ #### Performance Metrics:-
   - Average Time on Page: 98.49 seconds
   - Average Page Load Time: 54.39 seconds
+    
 ### Final Conclusion:
  This web marketing dashboard highlights key engagement metrics and user behavior patterns.
  Desktop remains the dominant device, but optimizing load time and reducing bounce rates could
  enhance user experience. High-performing pages and countries should be leveraged for targeted
- campaigns. The insights derived can directly inform strategic decisions for content and performance
+ campaigns. The insights derived can directly inform strategic decisions for content and performance optimization.
