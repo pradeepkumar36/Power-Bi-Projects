@@ -7,3 +7,6 @@
  ### Dataset Used:
  Source:-  Kaggle platform  - Data Fields: Sessions, Bounces, Pageviews, Device Category, Page Load Time, Country,
  Month-wise traffi
+### Dashboard :
+
+"C:\Users\vitab\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 101804.png"
