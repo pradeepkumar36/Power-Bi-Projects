@@ -14,6 +14,12 @@
  3. Which device categories are generating the most sessions and bounces?
  4. What is the average time on page and page load time?
  5. Which pages and countries are attracting the most unique pageviews ?
+### Process:
+#### Tools Used: 
+-Power BI for dashboard creation and visualization- Data Preparation:
+- Cleaned and aggregated session data by month, device, and country
+- Created calculated fields such as bounce rate, average time on page
+- 
 ### Dashboard :
 https://github.com/pradeepkumar36/Power-Bi-Projects/blob/main/Screenshot%202025-05-21%20101804.png
 ![Screenshot 2025-05-21 101804](https://github.com/user-attachments/assets/626bf832-16a7-41f2-b5c0-b2c2999f49d3)
