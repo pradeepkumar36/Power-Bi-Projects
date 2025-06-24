@@ -1,4 +1,10 @@
 # Web Marketing Analysis
+
+### Dashboard :
+https://github.com/pradeepkumar36/Power-Bi-Projects/blob/main/Screenshot%202025-05-21%20101804.png
+![Screenshot 2025-05-21 101804](https://github.com/user-attachments/assets/626bf832-16a7-41f2-b5c0-b2c2999f49d3)
+
+
  ### Project Objective:
  The primary objective of this project is to analyze web traffic behavior through key performance
  indicators (KPIs) such as sessions, bounces, pageviews, and user behavior across different devices
@@ -20,9 +26,6 @@
 - Cleaned and aggregated session data by month, device, and country
 - Created calculated fields such as bounce rate, average time on page
 - 
-### Dashboard :
-https://github.com/pradeepkumar36/Power-Bi-Projects/blob/main/Screenshot%202025-05-21%20101804.png
-![Screenshot 2025-05-21 101804](https://github.com/user-attachments/assets/626bf832-16a7-41f2-b5c0-b2c2999f49d3)
 
 ### Visualization Techniques:
   - KPI cards for high-level metrics
